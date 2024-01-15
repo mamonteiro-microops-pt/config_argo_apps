@@ -1,0 +1,4 @@
+environment: dev-platform
+
+sealedSecrets:
+  enabled: true
